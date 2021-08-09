@@ -1,2 +1,2 @@
 # TheGrapperMan
-Grappe and kill robots.
+Grappe in the blocks and kill robots.
